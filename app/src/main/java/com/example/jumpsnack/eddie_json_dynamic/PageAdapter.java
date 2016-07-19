@@ -42,8 +42,6 @@ public class PageAdapter extends PagerAdapter {
         if(!this.jsonController.getJsonDataParsing()){
             System.exit(0);
         }
-
-//        MainActivity.setTitle(this.jsonController.sensorName);
     }
 
 
